@@ -1,0 +1,9 @@
+Flask
+Flask-Cors
+requests
+azure-storage-blob
+python-dotenv
+pandas
+seaborn
+matplotlib
+statsmodels
